@@ -6,14 +6,16 @@
 	* Knowing Vue project structure
 * Components
 	* Creating first component
-  * Binding attributes to data
-  * Binding to events
-  * Binding to computed properties
-  * Creating child components
+	* Binding attributes to data
+	* Binding to events
+	* Binding to computed properties
+	* Creating child components
 	* Passing data to chield component
-  * Passing data to parent component
-	* Content projection with ng-content
-	* @ViewChild
+	* Passing data to parent component
+	* Inject content into a child component with slot
+	* Component lifecycle hooks
+	* Styling components
+	* $refs
 * Structural directives
 	* v-if
 	* v-for
