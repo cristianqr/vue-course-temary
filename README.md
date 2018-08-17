@@ -11,7 +11,8 @@
 	* Binding to events
 	* Binding to computed properties
 	* Using Component lifecycle hooks
-	
+	* Styling components
+	* Scoping component styles
 * Communicating between components
 	* Introduction
 	* Creating child components
@@ -19,53 +20,39 @@
 	* Validating props
 	* Passing data to parent component
 	* Understanding Unidirectional Data Flow
-* Advanced component usage
+* Advanced Component Usage
 	* Inject content into a child component
-	* Styling components
 	* $refs
 * Directives
 	* v-if
 	* v-for
 	* v-show
-* **Practice 01**
-* Style directives
-	* NgClass
-	* NgStyle
 	* v-text
 	* v-html
 	* v-pre
 	* v-cloak
 	* v-once
+* Class and Style Bindings
+	* Introduction
+	* Conditionally applying classess
+	* Conditionally applying styles
 * Custom Directives
 	* Introduction
-	* Creating custom directive
-	* @HostListener and host Object
-* Custom Pipes
-	* @Pipe
-	* Creating a custom pipe
-	* Pipes as providers
+	* Creating a custom directive
+	* Passing data to directives
+	* Using Directive lifecycle hooks
+* Custom Filters
+	* Introduction
+	* Creating a custom local filter
+	* Creating a custom global filter
 * Services, Http
 	* Data service and dependency injection
 	* Http data fetching with observables (rxjs/Rx)
-* **Practice 02**
-* Template-driven forms
-	* FormsModule
-	* ngForm
-	* ngModel
-	* ngModelGroup
-	* Binding ngForm and ngModel
-	* ngModels and ngModelGroup
-	* Template-driven submit
-* **Practice 03**
-* Reactive Forms
-	* ReactiveFormsModule
-	* FormControls and FormGroups
-	* Building a Reactive Form
-	* Validations
-	* FormControl (custom) validators
-	* FormGroup (custom) validators
-	* Updating and resetting FormGroups and FormControls
-* **Practice 04**
+* Forms
+	* Introduction
+	* Bind data to form inputs
+	* Form validation by hand
+	* Form validation using vue libraries
 * Routing
 	* Router outlet
 	* Defining routes
@@ -73,5 +60,3 @@
 	* Lazy-loading modules
 	* Preloading lazy-loaded modules
 	* Guards with canActivate
-* **Practice 05**
-* **Final Exam**
