@@ -45,18 +45,21 @@
 	* Introduction
 	* Creating a custom local filter
 	* Creating a custom global filter
-* Services, Http
-	* Data service and dependency injection
-	* Http data fetching with observables (rxjs/Rx)
 * Forms
 	* Introduction
 	* Bind data to form inputs
 	* Form validation by hand
 	* Form validation using vue libraries
+* Services, Http
+	* Data service and dependency injection
+	* Http data fetching with observables (rxjs/Rx)
 * Routing
-	* Router outlet
+	* Introduction
+	* Configuring your app to support routing
+	* Router view
 	* Defining routes
-	* Route parameters
-	* Lazy-loading modules
-	* Preloading lazy-loaded modules
+	* Navigating from code
+	* Working with route params
+	* Lazy loading routes
 	* Guards with canActivate
+	* Enabling HTML5 history mode
