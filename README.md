@@ -4,29 +4,41 @@
 	* Software requirement
 	* Creating a new project with the Vue CLI
 	* Knowing Vue project structure
-* Components
+* Introduction to Components
+	* Introduction
 	* Creating first component
 	* Binding attributes to data
 	* Binding to events
 	* Binding to computed properties
+	* Using Component lifecycle hooks
+	
+* Communicating between components
+	* Introduction
 	* Creating child components
-	* Passing data to chield component
+	* Passing data to child component
+	* Validating props
 	* Passing data to parent component
-	* Inject content into a child component with slot
-	* Component lifecycle hooks
+	* Understanding Unidirectional Data Flow
+* Advanced component usage
+	* Inject content into a child component
 	* Styling components
 	* $refs
-* Structural directives
+* Directives
 	* v-if
 	* v-for
-	<!--* NgSwitch-->
+	* v-show
 * **Practice 01**
 * Style directives
 	* NgClass
 	* NgStyle
+	* v-text
+	* v-html
+	* v-pre
+	* v-cloak
+	* v-once
 * Custom Directives
-	* @Directive
-	* Creating a custom attribute Directive
+	* Introduction
+	* Creating custom directive
 	* @HostListener and host Object
 * Custom Pipes
 	* @Pipe
