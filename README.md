@@ -1,6 +1,6 @@
 # Vue Course Temary
 
-* Overview, Setup and Source Files
+* Enviroment Setup
 	* Software Requirement
 	* Creating a new Project with the Vue CLI
 	* Knowing Vue project Structure
@@ -20,7 +20,7 @@
 	* Validating props
 	* Passing data to Parent Component
 	* Understanding Unidirectional Data Flow
-	* Using an Event bus for Communication
+	* Communication Through Events
 * Advanced Component Usage
 	* Inject Content Into a Child Component
 	* $refs
@@ -62,18 +62,16 @@
 	* Navigation with Router Links
 	* Navigating from code
 	* Working with route params
+	* Wildcard Route
 	* Setting up Child Routes
-	* Loading Routes Lazily
+	* Lazy loading
 	* Protecting Routes with Guards
 	* Understanding Routing Modes
 * State Management
 	* Introduction
-	* Creating a Vuex Store
-	* Using States
-	* Mapping States to Properties
-	* Using Getters
-	* Mapping Getters to Properties
-	* Using Mutations
-	* Using Actions
-	* Mapping Actions to Methods
-	* Using Vuex Helpers
+	* Vuex Setup
+	* State
+	* Getters
+	* Mutations
+	* Actions
+	* Modules
