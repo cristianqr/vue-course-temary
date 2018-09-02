@@ -1,6 +1,6 @@
 # Vue Course Temary
 
-* Enviroment Setup
+* Overview, Setup and Source Files
 	* Software Requirement
 	* Creating a new Project with the Vue CLI
 	* Knowing Vue project Structure
