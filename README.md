@@ -20,19 +20,15 @@
 	* Validating props
 	* Passing data to Parent Component
 	* Understanding Unidirectional Data Flow
-	* Communication Through Events
 * Advanced Component Usage
+	* Accessing Child Component Instances & Child Elements
+	* Communication Through Events
 	* Inject Content Into a Child Component
-	* $refs
 * Directives
 	* v-if
-	* v-for
 	* v-show
-	* v-text
+	* v-for
 	* v-html
-	* v-pre
-	* v-cloak
-	* v-once
 * Class and Style Bindings
 	* Introduction
 	* Conditionally Applying Classess
