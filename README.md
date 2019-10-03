@@ -13,7 +13,7 @@
 	* Using Component Lifecycle Hooks
 	* Styling Components
 	* Scoping Component Styles
-* Communicating Between Components
+* Component Communication
 	* Introduction
 	* Creating Child Components
 	* Passing Data to Child Component
@@ -31,7 +31,7 @@
 	* v-html
 * Class and Style Bindings
 	* Introduction
-	* Conditionally Applying Classess
+	* Conditionally Applying Classes
 	* Conditionally Applying Styles
 * Custom Directives
 	* Introduction
