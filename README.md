@@ -2,6 +2,7 @@
 
 * Overview, Setup and Source Files
 	* Software Requirement
+	* Vue as a library
 	* Creating a new Project with the Vue CLI
 	* Knowing Vue project Structure
 * Introduction to Components
