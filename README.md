@@ -14,6 +14,7 @@
 	* Using Component Lifecycle Hooks
 	* Styling Components
 	* Scoping Component Styles
+	* Css module
 * Component Communication
 	* Introduction
 	* Creating Child Components
